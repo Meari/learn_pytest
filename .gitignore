@@ -1,0 +1,4 @@
+﻿# Ignore all dotfiles except .gitignore and .git
+.*
+!.gitignore
+!/.git
